@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Get Data from an API using AXIOS
+
+## Built with useState and useEffect Hooks
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
