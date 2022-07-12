@@ -16,9 +16,9 @@ const Body = () => {
         <>
             { users.map( user => 
                 <ul key={ user.id }>
-                    <li>{ user.name }</li>
-                    <li>{ user.username }</li>
-                    <li>{ user.company.name }</li>
+                    <li>Name: { user.name }</li>
+                    <li>Username: { user.username }</li>
+                    <li>Company Name: { user.company.name }</li>
                 </ul>    
             )}
         </>
